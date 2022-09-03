@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+  <channel>
+    <title>hifonix Products</title>
+    <description>Hifonix Products</description>
+    <link>https://www.hifonix.co.uk/</link>
+    <item>
+      <g:id>480</g:id>
+      <title>Panasonic DMR-PWT530 Blu-ray Player &amp; HDD Recorder</title>
+      <description>DELIVERY INCLUDED.</description>
+      <g:product_type>DVD &amp; Blu Ray,----Blu Ray Players &amp; Recorders</g:product_type>
+      <g:google_product_category>Electronics</g:google_product_category>
+      <link>https://www.hifonix.co.uk/detail/panasonic-dmr-pwt530-blu-ray-player-hdd-recorder</link>
+      <g:image_link>https://www.hifonix.co.uk/images/ProductImages/LargeDMR-PWT530.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>289.00 GBP</g:price>
+      <g:sale_price>289.00 GBP</g:sale_price>
+      <g:brand>Panasonic</g:brand>
+      <g:gtin>5025232737888</g:gtin>
+      <g:ean>5025232737888</g:ean>
+      <g:mpn>DMR-PWT530</g:mpn>
+      <g:shipping>
+        <g:country>UK</g:country>
+        <g:price>0 GBP</g:price>
+      </g:shipping>
+    </item>
+</channel>
+</rss>

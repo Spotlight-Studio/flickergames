@@ -1,0 +1,1 @@
+{"gameName":"Game A","storeLink":"https://play.google.com/store/apps/details?id=com.fl.pizza.haunted.house.play","imageUrls":["https://flickergames.co/promo/ad_1_flicker.png"]}

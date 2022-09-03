@@ -1,0 +1,1 @@
+{"gameName":"Game A","storeLink":"https://play.google.com/store/apps/details?id=com.dino.survival.android","imageUrls":["https://flickergames.co/promo/ad_2.png"]}

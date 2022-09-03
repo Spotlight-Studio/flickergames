@@ -1,0 +1,1 @@
+{"gameName":"Haunted Home","storeLink":"https://apps.apple.com/us/app/haunted-home-escape/id1591202571","imageUrls":["https://flickergames.co/promo/ad_2_nad.png"]}

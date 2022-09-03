@@ -1,0 +1,1 @@
+{"gameName":"Haunted Lab","storeLink":"https://play.google.com/store/apps/details?id=com.up.nuclear.horror.play","imageUrls":["https://flickergames.co/promo/ad_1.png","https://flickergames.co/promo/ad_2.png"]}
